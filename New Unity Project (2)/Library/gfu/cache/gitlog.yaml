@@ -11,10 +11,148 @@ MonoBehaviour:
   m_Script: {fileID: -530159753, guid: 7d3a677691631814c819f6c04b639945, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  lastUpdatedAtString: 2018-03-23T02:08:56.7439073+07:00
-  lastVerifiedAtString: 2018-03-23T02:08:56.7439073+07:00
+  lastUpdatedAtString: 2018-03-23T02:09:51.0852535+07:00
+  lastVerifiedAtString: 2018-03-23T02:09:51.0852535+07:00
   initializedAtString: 2018-03-23T02:06:02.8269223+07:00
   log:
+  - commitID: b942a65a252bcd07f3869d480a91c16727bf4496
+    mergeA: 
+    mergeB: 
+    authorName: mcdamnalds
+    authorEmail: 37376424+mcdamnalds@users.noreply.github.com
+    commitEmail: 37376424+mcdamnalds@users.noreply.github.com
+    commitName: mcdamnalds
+    summary: movementlagi
+    description: movementlagi
+    timeString: 2018-03-23T02:09:46.0000000+07:00
+    commitTimeString: 2018-03-23T02:09:46.0000000+07:00
+    changes:
+    - path: New Unity Project (2)\Library\EditorInstance.json
+      fullPath: C:\Users\imironman\Documents\GitHub\projectcoba\New Unity Project
+        (2)\Library\EditorInstance.json
+      projectPath: Library\EditorInstance.json
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project (2)\Library\ShaderCache\1\138264456ea0d47c009424b42e08323c.bin
+      fullPath: C:\Users\imironman\Documents\GitHub\projectcoba\New Unity Project
+        (2)\Library\ShaderCache\1\138264456ea0d47c009424b42e08323c.bin
+      projectPath: Library\ShaderCache\1\138264456ea0d47c009424b42e08323c.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project (2)\Library\ShaderCache\f\fd3efa3d6d2054009725e4cb03b100ac.bin
+      fullPath: C:\Users\imironman\Documents\GitHub\projectcoba\New Unity Project
+        (2)\Library\ShaderCache\f\fd3efa3d6d2054009725e4cb03b100ac.bin
+      projectPath: Library\ShaderCache\f\fd3efa3d6d2054009725e4cb03b100ac.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project (2)\Library\gfu\cache\branches.yaml
+      fullPath: C:\Users\imironman\Documents\GitHub\projectcoba\New Unity Project
+        (2)\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: New Unity Project (2)\Library\gfu\cache\gitlocks.yaml
+      fullPath: C:\Users\imironman\Documents\GitHub\projectcoba\New Unity Project
+        (2)\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: New Unity Project (2)\Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\imironman\Documents\GitHub\projectcoba\New Unity Project
+        (2)\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: New Unity Project (2)\Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\imironman\Documents\GitHub\projectcoba\New Unity Project
+        (2)\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: New Unity Project (2)\Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\imironman\Documents\GitHub\projectcoba\New Unity Project
+        (2)\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: New Unity Project (2)\Library\gfu\cache\gituser.yaml
+      fullPath: C:\Users\imironman\Documents\GitHub\projectcoba\New Unity Project
+        (2)\Library\gfu\cache\gituser.yaml
+      projectPath: Library\gfu\cache\gituser.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: New Unity Project (2)\Library\metadata\18\18b4dbf8a0b54ea4adf46fb7f4d71dd0
+      fullPath: C:\Users\imironman\Documents\GitHub\projectcoba\New Unity Project
+        (2)\Library\metadata\18\18b4dbf8a0b54ea4adf46fb7f4d71dd0
+      projectPath: Library\metadata\18\18b4dbf8a0b54ea4adf46fb7f4d71dd0
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: New Unity Project (2)\Library\metadata\24\2403d1f95ea54028853403e595bc9274
+      fullPath: C:\Users\imironman\Documents\GitHub\projectcoba\New Unity Project
+        (2)\Library\metadata\24\2403d1f95ea54028853403e595bc9274
+      projectPath: Library\metadata\24\2403d1f95ea54028853403e595bc9274
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: New Unity Project (2)\Library\metadata\51\51288a4fc4384861a5b1f9dd49b3da26
+      fullPath: C:\Users\imironman\Documents\GitHub\projectcoba\New Unity Project
+        (2)\Library\metadata\51\51288a4fc4384861a5b1f9dd49b3da26
+      projectPath: Library\metadata\51\51288a4fc4384861a5b1f9dd49b3da26
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: New Unity Project (2)\Library\metadata\52\52a206b72a8f4f749c28d8b18b42dd19
+      fullPath: C:\Users\imironman\Documents\GitHub\projectcoba\New Unity Project
+        (2)\Library\metadata\52\52a206b72a8f4f749c28d8b18b42dd19
+      projectPath: Library\metadata\52\52a206b72a8f4f749c28d8b18b42dd19
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: New Unity Project (2)\Library\metadata\bb\bb6b4101ad2c42ec99f064a70c354e3c
+      fullPath: C:\Users\imironman\Documents\GitHub\projectcoba\New Unity Project
+        (2)\Library\metadata\bb\bb6b4101ad2c42ec99f064a70c354e3c
+      projectPath: Library\metadata\bb\bb6b4101ad2c42ec99f064a70c354e3c
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: New Unity Project (2)\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      fullPath: C:\Users\imironman\Documents\GitHub\projectcoba\New Unity Project
+        (2)\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: New Unity Project (2)\Temp\ProcessJobs\e9a6970f79cd12d8b075e7d72f1b07cb.bakert
+      fullPath: C:\Users\imironman\Documents\GitHub\projectcoba\New Unity Project
+        (2)\Temp\ProcessJobs\e9a6970f79cd12d8b075e7d72f1b07cb.bakert
+      projectPath: Temp\ProcessJobs\e9a6970f79cd12d8b075e7d72f1b07cb.bakert
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project (2)\Temp\UnityTempFile-724fb086644d8d444881f79597a81030
+      fullPath: C:\Users\imironman\Documents\GitHub\projectcoba\New Unity Project
+        (2)\Temp\UnityTempFile-724fb086644d8d444881f79597a81030
+      projectPath: Temp\UnityTempFile-724fb086644d8d444881f79597a81030
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project (2)\Temp\__Backupscenes\0.backup
+      fullPath: C:\Users\imironman\Documents\GitHub\projectcoba\New Unity Project
+        (2)\Temp\__Backupscenes\0.backup
+      projectPath: Temp\__Backupscenes\0.backup
+      originalPath: 
+      status: 4
+      staged: 0
   - commitID: f625989202d11d9478a48b094d8513fe547f8dcf
     mergeA: 
     mergeB: 
