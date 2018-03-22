@@ -11,8 +11,8 @@ MonoBehaviour:
   m_Script: {fileID: 1038538317, guid: 7d3a677691631814c819f6c04b639945, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  lastUpdatedAtString: 2018-03-23T02:09:50.1687443+07:00
-  lastVerifiedAtString: 2018-03-23T02:09:50.4214135+07:00
+  lastUpdatedAtString: 2018-03-23T02:10:29.9788653+07:00
+  lastVerifiedAtString: 2018-03-23T02:10:30.0839361+07:00
   initializedAtString: 2018-03-23T02:09:18.5707074+07:00
   entries:
   - path: New Unity Project (2)\Library\gfu\cache\branches.yaml

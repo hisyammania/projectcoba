@@ -11,10 +11,50 @@ MonoBehaviour:
   m_Script: {fileID: -530159753, guid: 7d3a677691631814c819f6c04b639945, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  lastUpdatedAtString: 2018-03-23T02:09:51.0852535+07:00
-  lastVerifiedAtString: 2018-03-23T02:09:51.0852535+07:00
+  lastUpdatedAtString: 2018-03-23T02:10:30.5924293+07:00
+  lastVerifiedAtString: 2018-03-23T02:10:30.5924293+07:00
   initializedAtString: 2018-03-23T02:06:02.8269223+07:00
   log:
+  - commitID: 4c0657457c5b396b20e5854393dda450f1909824
+    mergeA: 
+    mergeB: 
+    authorName: mcdamnalds
+    authorEmail: 37376424+mcdamnalds@users.noreply.github.com
+    commitEmail: 37376424+mcdamnalds@users.noreply.github.com
+    commitName: mcdamnalds
+    summary: movemenlagi
+    description: movemenlagi
+    timeString: 2018-03-23T02:10:26.0000000+07:00
+    commitTimeString: 2018-03-23T02:10:26.0000000+07:00
+    changes:
+    - path: New Unity Project (2)\Library\gfu\cache\branches.yaml
+      fullPath: C:\Users\imironman\Documents\GitHub\projectcoba\New Unity Project
+        (2)\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: New Unity Project (2)\Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\imironman\Documents\GitHub\projectcoba\New Unity Project
+        (2)\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: New Unity Project (2)\Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\imironman\Documents\GitHub\projectcoba\New Unity Project
+        (2)\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: New Unity Project (2)\Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\imironman\Documents\GitHub\projectcoba\New Unity Project
+        (2)\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      status: 3
+      staged: 0
   - commitID: b942a65a252bcd07f3869d480a91c16727bf4496
     mergeA: 
     mergeB: 
