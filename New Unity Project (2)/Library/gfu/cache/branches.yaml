@@ -11,9 +11,9 @@ MonoBehaviour:
   m_Script: {fileID: -913181260, guid: 7d3a677691631814c819f6c04b639945, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  lastUpdatedAtString: 2018-03-23T00:20:11.4213200+07:00
-  lastVerifiedAtString: 2018-03-23T00:20:11.4213200+07:00
-  initializedAtString: 2018-03-23T00:20:11.3380966+07:00
+  lastUpdatedAtString: 2018-03-24T02:58:58.5873103+07:00
+  lastVerifiedAtString: 2018-03-24T02:58:58.6183920+07:00
+  initializedAtString: 2018-03-24T02:13:27.0198279+07:00
   gitConfigBranch:
     name: master
     remote:
@@ -27,9 +27,6 @@ MonoBehaviour:
     tracking: origin/master
     isActive: 1
   remoteBranches:
-  - name: origin/HEAD
-    tracking: '[None]'
-    isActive: 0
   - name: origin/master
     tracking: '[None]'
     isActive: 0
@@ -54,14 +51,9 @@ MonoBehaviour:
     - origin
     subKeys:
     - Values:
-      - HEAD
       - master
     subKeyValues:
     - Values:
-      - name: HEAD
-        remote:
-          name: origin
-          url: https://github.com/hisyammania/projectcoba.git
       - name: master
         remote:
           name: origin

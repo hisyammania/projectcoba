@@ -1,0 +1,362 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1038538317, guid: 7d3a677691631814c819f6c04b639945, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  lastUpdatedAtString: 2018-03-24T02:59:03.8536076+07:00
+  lastVerifiedAtString: 2018-03-24T02:59:03.8536076+07:00
+  initializedAtString: 2018-03-24T02:13:39.5077555+07:00
+  entries:
+  - path: New Unity Project (2)\Library\EditorUserBuildSettings.asset
+    fullPath: D:\Document\Project\Unity\projectcoba\New Unity Project (2)\Library\EditorUserBuildSettings.asset
+    projectPath: Library\EditorUserBuildSettings.asset
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: New Unity Project (2)\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+    fullPath: D:\Document\Project\Unity\projectcoba\New Unity Project (2)\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: New Unity Project (2)\Library\ScriptAssemblies\BuiltinAssemblies.stamp
+    fullPath: D:\Document\Project\Unity\projectcoba\New Unity Project (2)\Library\ScriptAssemblies\BuiltinAssemblies.stamp
+    projectPath: Library\ScriptAssemblies\BuiltinAssemblies.stamp
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: New Unity Project (2)\Library\assetDatabase3
+    fullPath: D:\Document\Project\Unity\projectcoba\New Unity Project (2)\Library\assetDatabase3
+    projectPath: Library\assetDatabase3
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: New Unity Project (2)\Library\gfu\cache\branches.yaml
+    fullPath: D:\Document\Project\Unity\projectcoba\New Unity Project (2)\Library\gfu\cache\branches.yaml
+    projectPath: Library\gfu\cache\branches.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: New Unity Project (2)\Library\gfu\cache\gitlog.yaml
+    fullPath: D:\Document\Project\Unity\projectcoba\New Unity Project (2)\Library\gfu\cache\gitlog.yaml
+    projectPath: Library\gfu\cache\gitlog.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: New Unity Project (2)\Library\gfu\cache\gitstatusentries.yaml
+    fullPath: D:\Document\Project\Unity\projectcoba\New Unity Project (2)\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: New Unity Project (2)\Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: D:\Document\Project\Unity\projectcoba\New Unity Project (2)\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: New Unity Project (2)\Library\gfu\cache\gituser.yaml
+    fullPath: D:\Document\Project\Unity\projectcoba\New Unity Project (2)\Library\gfu\cache\gituser.yaml
+    projectPath: Library\gfu\cache\gituser.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: New Unity Project (2)\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: D:\Document\Project\Unity\projectcoba\New Unity Project (2)\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: New Unity Project (2)\Temp\__Backupscenes\0.backup
+    fullPath: D:\Document\Project\Unity\projectcoba\New Unity Project (2)\Temp\__Backupscenes\0.backup
+    projectPath: Temp\__Backupscenes\0.backup
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: New Unity Project (2)\Assets\Scene\MainMenu.unity
+    fullPath: D:\Document\Project\Unity\projectcoba\New Unity Project (2)\Assets\Scene\MainMenu.unity
+    projectPath: Assets\Scene\MainMenu.unity
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: New Unity Project (2)\Assets\Scene\MainMenu.unity.meta
+    fullPath: D:\Document\Project\Unity\projectcoba\New Unity Project (2)\Assets\Scene\MainMenu.unity.meta
+    projectPath: Assets\Scene\MainMenu.unity.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: New Unity Project (2)\Assets\Standard Assets.meta
+    fullPath: D:\Document\Project\Unity\projectcoba\New Unity Project (2)\Assets\Standard
+      Assets.meta
+    projectPath: Assets\Standard Assets.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: New Unity Project (2)\Assets\Standard Assets\Fonts.meta
+    fullPath: D:\Document\Project\Unity\projectcoba\New Unity Project (2)\Assets\Standard
+      Assets\Fonts.meta
+    projectPath: Assets\Standard Assets\Fonts.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: New Unity Project (2)\Assets\Standard Assets\Fonts\OpenSans.meta
+    fullPath: D:\Document\Project\Unity\projectcoba\New Unity Project (2)\Assets\Standard
+      Assets\Fonts\OpenSans.meta
+    projectPath: Assets\Standard Assets\Fonts\OpenSans.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: New Unity Project (2)\Assets\Standard Assets\Fonts\OpenSans\License!.txt
+    fullPath: D:\Document\Project\Unity\projectcoba\New Unity Project (2)\Assets\Standard
+      Assets\Fonts\OpenSans\License!.txt
+    projectPath: Assets\Standard Assets\Fonts\OpenSans\License!.txt
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: New Unity Project (2)\Assets\Standard Assets\Fonts\OpenSans\License!.txt.meta
+    fullPath: D:\Document\Project\Unity\projectcoba\New Unity Project (2)\Assets\Standard
+      Assets\Fonts\OpenSans\License!.txt.meta
+    projectPath: Assets\Standard Assets\Fonts\OpenSans\License!.txt.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: New Unity Project (2)\Assets\Standard Assets\Fonts\OpenSans\OpenSansBold.ttf
+    fullPath: D:\Document\Project\Unity\projectcoba\New Unity Project (2)\Assets\Standard
+      Assets\Fonts\OpenSans\OpenSansBold.ttf
+    projectPath: Assets\Standard Assets\Fonts\OpenSans\OpenSansBold.ttf
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: New Unity Project (2)\Assets\Standard Assets\Fonts\OpenSans\OpenSansBold.ttf.meta
+    fullPath: D:\Document\Project\Unity\projectcoba\New Unity Project (2)\Assets\Standard
+      Assets\Fonts\OpenSans\OpenSansBold.ttf.meta
+    projectPath: Assets\Standard Assets\Fonts\OpenSans\OpenSansBold.ttf.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: New Unity Project (2)\Assets\Standard Assets\Fonts\OpenSans\OpenSansLight.ttf
+    fullPath: D:\Document\Project\Unity\projectcoba\New Unity Project (2)\Assets\Standard
+      Assets\Fonts\OpenSans\OpenSansLight.ttf
+    projectPath: Assets\Standard Assets\Fonts\OpenSans\OpenSansLight.ttf
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: New Unity Project (2)\Assets\Standard Assets\Fonts\OpenSans\OpenSansLight.ttf.meta
+    fullPath: D:\Document\Project\Unity\projectcoba\New Unity Project (2)\Assets\Standard
+      Assets\Fonts\OpenSans\OpenSansLight.ttf.meta
+    projectPath: Assets\Standard Assets\Fonts\OpenSans\OpenSansLight.ttf.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: New Unity Project (2)\Assets\Standard Assets\Fonts\OpenSans\OpenSansRegular.ttf
+    fullPath: D:\Document\Project\Unity\projectcoba\New Unity Project (2)\Assets\Standard
+      Assets\Fonts\OpenSans\OpenSansRegular.ttf
+    projectPath: Assets\Standard Assets\Fonts\OpenSans\OpenSansRegular.ttf
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: New Unity Project (2)\Assets\Standard Assets\Fonts\OpenSans\OpenSansRegular.ttf.meta
+    fullPath: D:\Document\Project\Unity\projectcoba\New Unity Project (2)\Assets\Standard
+      Assets\Fonts\OpenSans\OpenSansRegular.ttf.meta
+    projectPath: Assets\Standard Assets\Fonts\OpenSans\OpenSansRegular.ttf.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: New Unity Project (2)\Assets\Standard Assets\Fonts\OpenSans\OpenSansSemibold.ttf
+    fullPath: D:\Document\Project\Unity\projectcoba\New Unity Project (2)\Assets\Standard
+      Assets\Fonts\OpenSans\OpenSansSemibold.ttf
+    projectPath: Assets\Standard Assets\Fonts\OpenSans\OpenSansSemibold.ttf
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: New Unity Project (2)\Assets\Standard Assets\Fonts\OpenSans\OpenSansSemibold.ttf.meta
+    fullPath: D:\Document\Project\Unity\projectcoba\New Unity Project (2)\Assets\Standard
+      Assets\Fonts\OpenSans\OpenSansSemibold.ttf.meta
+    projectPath: Assets\Standard Assets\Fonts\OpenSans\OpenSansSemibold.ttf.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: New Unity Project (2)\Assets\Standard Assets\Fonts\Unipix.ttf
+    fullPath: D:\Document\Project\Unity\projectcoba\New Unity Project (2)\Assets\Standard
+      Assets\Fonts\Unipix.ttf
+    projectPath: Assets\Standard Assets\Fonts\Unipix.ttf
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: New Unity Project (2)\Assets\Standard Assets\Fonts\Unipix.ttf.meta
+    fullPath: D:\Document\Project\Unity\projectcoba\New Unity Project (2)\Assets\Standard
+      Assets\Fonts\Unipix.ttf.meta
+    projectPath: Assets\Standard Assets\Fonts\Unipix.ttf.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: New Unity Project (2)\Library\CrashedAssetImports.txt
+    fullPath: D:\Document\Project\Unity\projectcoba\New Unity Project (2)\Library\CrashedAssetImports.txt
+    projectPath: Library\CrashedAssetImports.txt
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: New Unity Project (2)\Library\ShaderCache\7\70daf7930721e0ccaef3198cd6348dec.bin
+    fullPath: D:\Document\Project\Unity\projectcoba\New Unity Project (2)\Library\ShaderCache\7\70daf7930721e0ccaef3198cd6348dec.bin
+    projectPath: Library\ShaderCache\7\70daf7930721e0ccaef3198cd6348dec.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: New Unity Project (2)\Library\ShaderCache\7\751feeb5da2bce9ee7de786f43b58acf.bin
+    fullPath: D:\Document\Project\Unity\projectcoba\New Unity Project (2)\Library\ShaderCache\7\751feeb5da2bce9ee7de786f43b58acf.bin
+    projectPath: Library\ShaderCache\7\751feeb5da2bce9ee7de786f43b58acf.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: New Unity Project (2)\Library\metadata\01\01cd679a1b9ee48bf9c546f6ce2cb97e
+    fullPath: D:\Document\Project\Unity\projectcoba\New Unity Project (2)\Library\metadata\01\01cd679a1b9ee48bf9c546f6ce2cb97e
+    projectPath: Library\metadata\01\01cd679a1b9ee48bf9c546f6ce2cb97e
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: New Unity Project (2)\Library\metadata\01\01cd679a1b9ee48bf9c546f6ce2cb97e.info
+    fullPath: D:\Document\Project\Unity\projectcoba\New Unity Project (2)\Library\metadata\01\01cd679a1b9ee48bf9c546f6ce2cb97e.info
+    projectPath: Library\metadata\01\01cd679a1b9ee48bf9c546f6ce2cb97e.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: New Unity Project (2)\Library\metadata\04\04a842e316b6f44bf8da702de26a8ed6
+    fullPath: D:\Document\Project\Unity\projectcoba\New Unity Project (2)\Library\metadata\04\04a842e316b6f44bf8da702de26a8ed6
+    projectPath: Library\metadata\04\04a842e316b6f44bf8da702de26a8ed6
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: New Unity Project (2)\Library\metadata\04\04a842e316b6f44bf8da702de26a8ed6.info
+    fullPath: D:\Document\Project\Unity\projectcoba\New Unity Project (2)\Library\metadata\04\04a842e316b6f44bf8da702de26a8ed6.info
+    projectPath: Library\metadata\04\04a842e316b6f44bf8da702de26a8ed6.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: New Unity Project (2)\Library\metadata\1f\1f16052dfd5f6f54e94e97ecedd4c86b
+    fullPath: D:\Document\Project\Unity\projectcoba\New Unity Project (2)\Library\metadata\1f\1f16052dfd5f6f54e94e97ecedd4c86b
+    projectPath: Library\metadata\1f\1f16052dfd5f6f54e94e97ecedd4c86b
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: New Unity Project (2)\Library\metadata\1f\1f16052dfd5f6f54e94e97ecedd4c86b.info
+    fullPath: D:\Document\Project\Unity\projectcoba\New Unity Project (2)\Library\metadata\1f\1f16052dfd5f6f54e94e97ecedd4c86b.info
+    projectPath: Library\metadata\1f\1f16052dfd5f6f54e94e97ecedd4c86b.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: New Unity Project (2)\Library\metadata\41\417a22bf1b05bbb44920b6f5652240e9
+    fullPath: D:\Document\Project\Unity\projectcoba\New Unity Project (2)\Library\metadata\41\417a22bf1b05bbb44920b6f5652240e9
+    projectPath: Library\metadata\41\417a22bf1b05bbb44920b6f5652240e9
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: New Unity Project (2)\Library\metadata\41\417a22bf1b05bbb44920b6f5652240e9.info
+    fullPath: D:\Document\Project\Unity\projectcoba\New Unity Project (2)\Library\metadata\41\417a22bf1b05bbb44920b6f5652240e9.info
+    projectPath: Library\metadata\41\417a22bf1b05bbb44920b6f5652240e9.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: New Unity Project (2)\Library\metadata\5d\5d757120c2679c94f95bbb8c06341f10
+    fullPath: D:\Document\Project\Unity\projectcoba\New Unity Project (2)\Library\metadata\5d\5d757120c2679c94f95bbb8c06341f10
+    projectPath: Library\metadata\5d\5d757120c2679c94f95bbb8c06341f10
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: New Unity Project (2)\Library\metadata\5d\5d757120c2679c94f95bbb8c06341f10.info
+    fullPath: D:\Document\Project\Unity\projectcoba\New Unity Project (2)\Library\metadata\5d\5d757120c2679c94f95bbb8c06341f10.info
+    projectPath: Library\metadata\5d\5d757120c2679c94f95bbb8c06341f10.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: New Unity Project (2)\Library\metadata\87\87c316b602156405d92e616621658222
+    fullPath: D:\Document\Project\Unity\projectcoba\New Unity Project (2)\Library\metadata\87\87c316b602156405d92e616621658222
+    projectPath: Library\metadata\87\87c316b602156405d92e616621658222
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: New Unity Project (2)\Library\metadata\87\87c316b602156405d92e616621658222.info
+    fullPath: D:\Document\Project\Unity\projectcoba\New Unity Project (2)\Library\metadata\87\87c316b602156405d92e616621658222.info
+    projectPath: Library\metadata\87\87c316b602156405d92e616621658222.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: New Unity Project (2)\Library\metadata\b5\b51a3e520f9164da198dc59c8acfccd6
+    fullPath: D:\Document\Project\Unity\projectcoba\New Unity Project (2)\Library\metadata\b5\b51a3e520f9164da198dc59c8acfccd6
+    projectPath: Library\metadata\b5\b51a3e520f9164da198dc59c8acfccd6
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: New Unity Project (2)\Library\metadata\b5\b51a3e520f9164da198dc59c8acfccd6.info
+    fullPath: D:\Document\Project\Unity\projectcoba\New Unity Project (2)\Library\metadata\b5\b51a3e520f9164da198dc59c8acfccd6.info
+    projectPath: Library\metadata\b5\b51a3e520f9164da198dc59c8acfccd6.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: New Unity Project (2)\Library\metadata\c3\c32de72f872aad9448b3118fda0231fb
+    fullPath: D:\Document\Project\Unity\projectcoba\New Unity Project (2)\Library\metadata\c3\c32de72f872aad9448b3118fda0231fb
+    projectPath: Library\metadata\c3\c32de72f872aad9448b3118fda0231fb
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: New Unity Project (2)\Library\metadata\c3\c32de72f872aad9448b3118fda0231fb.info
+    fullPath: D:\Document\Project\Unity\projectcoba\New Unity Project (2)\Library\metadata\c3\c32de72f872aad9448b3118fda0231fb.info
+    projectPath: Library\metadata\c3\c32de72f872aad9448b3118fda0231fb.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: New Unity Project (2)\Library\metadata\cf\cf1acff8cf98a440dba907e79fd30ebc
+    fullPath: D:\Document\Project\Unity\projectcoba\New Unity Project (2)\Library\metadata\cf\cf1acff8cf98a440dba907e79fd30ebc
+    projectPath: Library\metadata\cf\cf1acff8cf98a440dba907e79fd30ebc
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: New Unity Project (2)\Library\metadata\cf\cf1acff8cf98a440dba907e79fd30ebc.info
+    fullPath: D:\Document\Project\Unity\projectcoba\New Unity Project (2)\Library\metadata\cf\cf1acff8cf98a440dba907e79fd30ebc.info
+    projectPath: Library\metadata\cf\cf1acff8cf98a440dba907e79fd30ebc.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: New Unity Project (2)\Library\metadata\fc\fc48b922a6ed1b34787930814c71d431
+    fullPath: D:\Document\Project\Unity\projectcoba\New Unity Project (2)\Library\metadata\fc\fc48b922a6ed1b34787930814c71d431
+    projectPath: Library\metadata\fc\fc48b922a6ed1b34787930814c71d431
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: New Unity Project (2)\Library\metadata\fc\fc48b922a6ed1b34787930814c71d431.info
+    fullPath: D:\Document\Project\Unity\projectcoba\New Unity Project (2)\Library\metadata\fc\fc48b922a6ed1b34787930814c71d431.info
+    projectPath: Library\metadata\fc\fc48b922a6ed1b34787930814c71d431.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: New Unity Project (2)\Temp\TarGZ\archtemp.tar
+    fullPath: D:\Document\Project\Unity\projectcoba\New Unity Project (2)\Temp\TarGZ\archtemp.tar
+    projectPath: Temp\TarGZ\archtemp.tar
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: New Unity Project (2)\Temp\UnityTempFile-b0ba1f24fa9b76546910cfbc5e392ea5
+    fullPath: D:\Document\Project\Unity\projectcoba\New Unity Project (2)\Temp\UnityTempFile-b0ba1f24fa9b76546910cfbc5e392ea5
+    projectPath: Temp\UnityTempFile-b0ba1f24fa9b76546910cfbc5e392ea5
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: New Unity Project (2)\Temp\UnityTempFile-b9a1e9fe693d9e843a3a7b909257cceb
+    fullPath: D:\Document\Project\Unity\projectcoba\New Unity Project (2)\Temp\UnityTempFile-b9a1e9fe693d9e843a3a7b909257cceb
+    projectPath: Temp\UnityTempFile-b9a1e9fe693d9e843a3a7b909257cceb
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: New Unity Project (2)\Temp\UnityTempFile-c383f3d2438d3ec4e9941b38a0e0e56d
+    fullPath: D:\Document\Project\Unity\projectcoba\New Unity Project (2)\Temp\UnityTempFile-c383f3d2438d3ec4e9941b38a0e0e56d
+    projectPath: Temp\UnityTempFile-c383f3d2438d3ec4e9941b38a0e0e56d
+    originalPath: 
+    status: 1
+    staged: 0
